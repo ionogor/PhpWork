@@ -1,0 +1,11 @@
+.edit {
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+}
+
+.addClass {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
